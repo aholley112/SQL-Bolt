@@ -1,0 +1,7 @@
+1. SELECT * FROM movies WHERE Id = 6;
+2. SELECT * FROM movies WHERE Year BETWEEN 2000 AND 2010;
+3. SELECT * FROM movies WHERE Year < 2000 OR Year > 2010;
+4. SELECT Title, Year FROM movies ORDER BY Year LIMIT 5;
+
+
+
